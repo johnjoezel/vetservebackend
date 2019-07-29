@@ -63,6 +63,7 @@ class AccountModel{
 		$row=mysqli_fetch_assoc($result);
 		return $row;
 	}
+	
 }
 
  ?>
